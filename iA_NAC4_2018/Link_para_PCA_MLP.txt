@@ -1,0 +1,6 @@
+Use este link para acessar  projeto PCA-MLP.ipynb junto com suas imagens originais
+Lembre-se de instalar os pacotes opencv-python, scikit-learn, seaborn e jupyter:
+
+> pip install opencv-python scikit-learn seaborn jupyter
+
+https://drive.google.com/open?id=1obEv5fSQfm_M-iryftKajykAsF76xtF-

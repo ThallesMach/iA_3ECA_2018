@@ -1,0 +1,11 @@
+
+---No Prompt do Windows
+cmd
+
+>pip install seaborn 
+>pip install scikit-learn 
+>jupyter notebook 
+
+
+--Passado na Sala 08/10/2018
+MLP2(1).ipynb
